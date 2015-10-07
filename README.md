@@ -1,2 +1,2 @@
 # weekly-news-report
-elm language weekly news report
+weekly news report
